@@ -1,6 +1,6 @@
 # Offensive Language Detection on Hungarian Dataset
 
-A combination of conventional machine learning techniques and state-of-the-art deep learning techniques.
+A combination of conventional machine learning techniques and state-of-the-art deep learning techniques to detect offensive language.
 
 # Content
 
